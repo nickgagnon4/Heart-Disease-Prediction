@@ -7,6 +7,7 @@
 ### The project includes:
 
 Data cleaning & validation
+
 Exploratory data analysis (EDA)
 One-hot encoding & feature scaling
 Multiple ML models
