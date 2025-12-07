@@ -7,18 +7,12 @@
 ### The project includes:
 
 Data cleaning & validation
-
-### Exploratory data analysis (EDA)
-
-### One-hot encoding & feature scaling
-
-### Multiple ML models
-
-### Model evaluation with ROC curves, confusion matrices, and cross-validation
-
-### Feature importance analysis
-
-### A custom risk binning strategy to categorize patients by risk level
+Exploratory data analysis (EDA)
+One-hot encoding & feature scaling
+Multiple ML models
+Model evaluation with ROC curves, confusion matrices, and cross-validation
+Feature importance analysis
+A custom risk binning strategy to categorize patients by risk level
 
 ## Data Cleaning & Preprocessing
 ### Duplicate Removal
