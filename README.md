@@ -6,7 +6,7 @@
 
 ### The project includes:
 
-### Data cleaning & validation
+Data cleaning & validation
 
 ### Exploratory data analysis (EDA)
 
